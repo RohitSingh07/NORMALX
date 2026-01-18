@@ -2,6 +2,7 @@
   "name": "normal-x",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
