@@ -27,7 +27,7 @@ export default function SiteHeader() {
             <span className="inline-flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground font-mono text-sm">
               PNR
             </span>
-            <span className="text-pretty">PNR TECHNOLOGY</span>
+            <span className="text-pretty">NormalX</span>
           </Link>
           <nav className="hidden md:flex items-center gap-6" aria-label="Main">
             {nav.map((item) => (
